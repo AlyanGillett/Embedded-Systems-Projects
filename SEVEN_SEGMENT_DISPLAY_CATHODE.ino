@@ -1,5 +1,5 @@
 //Alyan Gillett Arduino Projects
-
+/* Use a seven-segment display cathode in order to illustrate the count 0-9. */
 int pinA = 13;
 int pinB = 12;
 int pinC = 11;
