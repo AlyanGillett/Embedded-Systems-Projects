@@ -1,5 +1,8 @@
 //Alyan Gillett Arduino Projects
-/**/
+/* This Tinkercad project incorporates an LCD screen to display lyrics while playing a song simultaneously. 
+The project utilizes an Arduino board and a LiquidCrystal library for controlling the LCD. 
+The lyrics of the song are stored in an array, and each line is displayed on the LCD screen in a loop. 
+A timer is also implemented to synchronize the start of the song with the lyrics on the screen. */
 
 
 //Snippet of Toosie ft Khalid Favorite song
