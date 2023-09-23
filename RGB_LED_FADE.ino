@@ -1,6 +1,7 @@
 //Alyan Gillett Arduino Projects
 /* Using an RGB LED to create a cycle of 3 different colors: red, green, and blue. 
 This will be done by starting off in a red state, fading to green, fading to blue, and then ending back in red. */
+
 // defines pins
 #define BLUE 3
 #define GREEN 5
