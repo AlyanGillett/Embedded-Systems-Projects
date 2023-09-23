@@ -1,5 +1,6 @@
 //Alyan Gillett Arduino Projects
-/*Using a push button with digital inputs in order to turn an LED on and off. Pressing the button turns it on, and pressing the other button turns it off.*/
+/* Using a push button with digital inputs in order to turn an LED on and off. 
+Pressing the button turns it on, and pressing the other button turns it off. */
 int ledPin = 5;
 int buttonApin = 9;
 int buttonBpin = 8;
