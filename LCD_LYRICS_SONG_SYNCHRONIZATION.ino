@@ -4,7 +4,6 @@ The project utilizes an Arduino board and a LiquidCrystal library for controllin
 The lyrics of the song are stored in an array, and each line is displayed on the LCD screen in a loop. 
 A timer is also implemented to synchronize the start of the song with the lyrics on the screen. */
 
-
 //Snippet of Toosie ft Khalid Favorite song
 //play the song simultaneously with the lcd screen
 //A timer will appear counting down when to start the song in order to line it up with the lyrics on the screen
