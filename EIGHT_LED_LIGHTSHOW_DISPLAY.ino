@@ -1,5 +1,6 @@
 //Alyan Gillett Arduino Projects
 /* Use eight large LEDS with arduino by using a chip called a 74HC595 Serial to parallel Converter. This process is so we don’t have to give up 8 output pins on the UNO. */
+
 int tDelay = 100;
 int latchPin = 11;      // (11) ST_CP [RCK] on 74HC595
 int clockPin = 9;      // (9) SH_CP [SCK] on 74HC595
