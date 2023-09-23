@@ -1,7 +1,6 @@
 //Alyan Gillett Arduino Projects
 /* This Tinkercad involves creating a servo motor control system using an Arduino and a potentiometer. 
-The potentiometer allows users to manipulate the servo motor's position, enabling control over its movement and direction.
-*/
+The potentiometer allows users to manipulate the servo motor's position, enabling control over its movement and direction. */
 
 #include <Servo.h>
 
